@@ -13,22 +13,20 @@
 
 </br>
 
-<div >
--🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.
-  </br>
-   </br>
--🌱 I’m currently going more deep into Mern Stack and speacially frontend.
-</br>
-   </br>
--💬 Ask me about MERN Stack, Backend, or Javascript i would love to help.
-</br>
-   </br>
--👯 I’m looking to collaborate and make any tech community
-</br>
-   </br>
--📫 Portfolio - ""
-</br>
-</div>
+- 🌱 I’m currently learning **Full-Stack Development**
+- 👨‍💻 Check out some of my works at [My Portfolio](https://pavan-lenkala-portfolio.vercel.app/#clients)
+
+- 💬 Ask me about **React and JavaScript**
+
+- 📫 Reach out to me at **L.pavan6445@gmail.com**
+
+- ⚡ Fun fact **Why do programmers prefer dark mode?....... Coz the light attracts bugs :)**
+
+## 🚀 Languages and Tools:
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  [![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)  [![Mongodb Badge](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](#)  [![Express Badge](https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)](#)  [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)   [![Npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
+<br/>
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div display="flex">
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
