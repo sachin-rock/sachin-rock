@@ -14,11 +14,11 @@
 </br>
 
 - 🌱 I’m currently learning **Full-Stack Development**
-- 👨‍💻 Check out some of my works at [My Portfolio](https://pavan-lenkala-portfolio.vercel.app/#clients)
+- 👨‍💻 Check out some of my works at [My Portfolio]()
 
 - 💬 Ask me about **React and JavaScript**
 
-- 📫 Reach out to me at **L.pavan6445@gmail.com**
+- 📫 Reach out to me at **sachiningole112@gmail.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode?....... Coz the light attracts bugs :)**
 
