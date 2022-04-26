@@ -16,12 +16,16 @@
 <div >
 -🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.
   </br>
+   </br>
 -🌱 I’m currently going more deep into Mern Stack and speacially frontend.
 </br>
+   </br>
 -💬 Ask me about MERN Stack, Backend, or Javascript i would love to help.
 </br>
+   </br>
 -👯 I’m looking to collaborate and make any tech community
 </br>
+   </br>
 -📫 Portfolio - ""
 </br>
 </div>
