@@ -12,13 +12,13 @@
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
 
-
+<p>
 🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.
 🌱 I’m currently going more deep into Mern Stack and speacially frontend.
 💬 Ask me about MERN Stack, Backend, or Javascript i would love to help.
 👯 I’m looking to collaborate and make any tech community
 📫 Portfolio - ""
-
+</p>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
