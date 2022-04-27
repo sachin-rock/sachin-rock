@@ -49,5 +49,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rock&" alt="sachin-rock"></p>
 
-<p>https://activity-graph.herokuapp.com/graph?username=sachin-rock&theme=red&hide_border=true</p>
 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sachin-rock&theme=red&hide_border=true" alt="sachin-rock"></p>
