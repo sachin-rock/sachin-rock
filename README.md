@@ -45,6 +45,7 @@
 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-rock&show_icons=true&locale=en" alt="sachin-rock" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-rock&" alt="sachin-rock"></p>
 
