@@ -11,7 +11,7 @@
 <div size='20px'>Hi, I'm Sachin Ingole, A Full Stack Web Developer 🚀 from Beed Maharashtra, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn &  explore new technologies I'm a #####Masai School Student,<a href="https://www.masaischool.com/">@Masai School</a>, I love travelling and explore the new places
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 30px></h2>
 
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
