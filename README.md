@@ -6,8 +6,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
-  <img width="50%" height = "200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cover" />
+ 
 </p>
+
+ <img width="50%" height = "200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cover" />
 
 <div size='20px'>Hi, I'm Sachin Ingole, A Full Stack Web Developer 🚀 from Beed Maharashtra, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn &  explore new technologies I'm a #####Masai School Student,<a href="https://www.masaischool.com/">@Masai School</a>, I love travelling and explore the new places
 </div>
