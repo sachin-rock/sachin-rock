@@ -7,7 +7,7 @@
  
 </p>
 <div align="center">
- <img height="300px" width="450" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
+ <img height="250px" width="500" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
 </div>
 
 
