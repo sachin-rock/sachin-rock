@@ -1,6 +1,4 @@
-<div align="center">
 
-</div>
 
 <h1 align="center">Hi 👋, I'm Sachin ingole </h1>
 
@@ -8,8 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
  
 </p>
+<div align="center">
+ <img   src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
+</div>
 
- <img align="center" width="50%" height = "200px" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
 
 <div size='20px'>Hi, I'm Sachin Ingole, A Full Stack Web Developer 🚀 from Beed Maharashtra, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn &  explore new technologies I'm a #####Masai School Student,<a href="https://www.masaischool.com/">@Masai School</a>, I love travelling and explore the new places
 </div>
