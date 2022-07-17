@@ -9,7 +9,7 @@
  
 </p>
 
- <img width="50%" height = "200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="cover" />
+ <img align="center" width="50%" height = "200px" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" alt="cover" />
 
 <div size='20px'>Hi, I'm Sachin Ingole, A Full Stack Web Developer 🚀 from Beed Maharashtra, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn &  explore new technologies I'm a #####Masai School Student,<a href="https://www.masaischool.com/">@Masai School</a>, I love travelling and explore the new places
 </div>
