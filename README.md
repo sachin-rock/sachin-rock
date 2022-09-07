@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Sachin ingole </h1>
+<h1 align="center">Hi 👋, I'm Sachin ingole</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
