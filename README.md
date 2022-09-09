@@ -27,7 +27,7 @@
 
 - 📫 Reach out to me at **sachiningole112@gmail.com**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode?....... Coz the light attracts bugs :)**
+- ⚡ Fun fact **Why do programmers prefer dark mode?....... Coz the light attracts bugs:)**
 
 ## 🚀 Languages and Tools:
 
